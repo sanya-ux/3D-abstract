@@ -3,11 +3,11 @@
     "short_name": "Unity WebGL",
     "start_url": "index.html",
     "display": "fullscreen",
-    "background_color": "#231F20",
+    "background_color": "#1b1f15",
     "theme_color": "#000",
     "description": "",
     "icons": [{
-      "src": "TemplateData/icons/unity-logo-dark.png",
+      "src": "TemplateData/icons/sanya_dark_2.png",
       "sizes": "144x144",
       "type": "image/png",
       "purpose": "any maskable"
